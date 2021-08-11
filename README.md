@@ -12,7 +12,8 @@ The current section is in preparation. More information is coming soon.
 The current section is in preparation. More information is coming soon.
 
 ### How to access the database
-To gain access to the RU-PITENS database, please complete and submit the following form here.
+To gain access to the RU-PITENS database, please complete and submit the following form "".
+
 Note that an academic affiliation is necessary because the database is only available to researchers from non-commercial institutions (hospitals, research institutes, colleges, or universities). Also note that only faculty members can be granted access to the database, so students and trainees (including post-docs) need a faculty member to submit a request on their behalf.
 
 ![Protocol](https://user-images.githubusercontent.com/54616128/129039972-e27f609a-1b16-4efb-afb4-71aa6280965a.png)

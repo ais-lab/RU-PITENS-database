@@ -15,6 +15,9 @@ The current section is in preparation. More information is coming soon.
 To gain access to the RU-PITENS database, please complete and submit the following form here.
 Note that an academic affiliation is necessary because the database is only available to researchers from non-commercial institutions (hospitals, research institutes, colleges, or universities). Also note that only faculty members can be granted access to the database, so students and trainees (including post-docs) need a faculty member to submit a request on their behalf.
 
+![Protocol](https://user-images.githubusercontent.com/54616128/129039972-e27f609a-1b16-4efb-afb4-71aa6280965a.png)
+
+
 ### Citation
 If you use this database for your research, please cite our paper:
 

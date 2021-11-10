@@ -18,6 +18,8 @@ Note that an academic affiliation is necessary because the database is only avai
 
 ![Protocol](https://user-images.githubusercontent.com/54616128/129039972-e27f609a-1b16-4efb-afb4-71aa6280965a.png)
 
+### Participants
+41 Japanese (26 males and 15 females)
 
 ### Citation
 If you use this database for your research, please cite our paper:

@@ -1,6 +1,6 @@
 # RU-PITENS-database
 
-This study was conducted in the [AIS laboratory](http://www.aislab.org/ "AIS") (Principal Investigator: Prof. Joo-Ho Lee (lee.aislab@gmail.com) of Ritsumeikan University. This database is open to the public under the authority of the first author (Dr. Miran Lee (miran@robot.t.u-tokyo.ac.jp)) or corresponding author (Prof. Joo-Ho Lee (lee.aislab@gmail.com)) of this study.
+This study was conducted in the [AIS laboratory](http://www.aislab.org/ "AIS") (Principal Investigator: Prof. Joo-Ho Lee (lee.aislab@gmail.com) of Ritsumeikan University. This database is open to the public under the authority of the first author (Dr. Miran Lee (miran@daegu.ac.kr)) or corresponding author (Prof. Joo-Ho Lee (lee.aislab@gmail.com)) of this study.
 
 ### Abstract
 RU-PITENS database (Pain expression facial images using transcutaneous electrical nerve stimulation (TENS) from Ritsumeikan University) contains frontal images of the faces of subjects, showing images indicating pain intensity caused by the TENS device. The experiment was approved by the Institutional Review Board (IRB) of Ritsumeikan University (BKC-2019-060).
@@ -32,4 +32,4 @@ AIS Lab., Ritsumeikan University (PI: Prof. Joo-Ho Lee): http://www.aislab.org/
 
 Prof. Joo-Ho Lee's homepage: https://research-db.ritsumei.ac.jp/rithp/k03/resid/S000220
 
-Dr. Miran Lee's personal homepage: https://sites.google.com/view/miran-page/home
+Dr. Miran Lee's personal homepage: https://sites.google.com/view/hci-du/home?authuser=0
